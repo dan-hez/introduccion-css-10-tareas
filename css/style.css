@@ -1,0 +1,45 @@
+body{
+    background-color: rgb(223, 223, 223);
+}
+.caja{
+    width: 300px;
+    height: auto;
+    background-color: rgb(243, 243, 243);
+    padding: 2%;
+    margin: auto;
+    margin-top: 5%;
+    margin-bottom: 10%;
+}
+
+h1{
+    font-family: 'Inconsolata';
+    font-size: 32px;
+}
+h2{
+    font-family: 'Nunito', sans-serif;
+    font-size: 24px;
+}
+h3{
+    font-family: 'Nunito', sans-serif;
+    font-size: 18px;
+}
+span{
+    font-family: 'Peddana', serif;
+    font-size: 20px;
+}
+p{
+    font-family: 'Nunito', sans-serif;
+    font-size: 16px;
+    color: rgb(165, 165, 165);
+}
+.pendiente{
+    color: blue;
+}.haciendo{
+    color: orange;
+}
+.hecha{
+    color: green;
+}
+.cancelada{
+    color: red;
+}
